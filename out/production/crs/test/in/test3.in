@@ -1,0 +1,17 @@
+restore
+add
+B100AAA
+MihaiP
+check
+B100AAA
+getOwner
+B100AAA
+add
+BV10AAA
+AlexM
+remove
+B100AAA
+check
+BV10AAA
+reset
+quit

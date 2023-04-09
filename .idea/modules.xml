@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/crs/crs.iml" filepath="$PROJECT_DIR$/crs/crs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-io-binary_devmind_car_rental_system.iml" filepath="$PROJECT_DIR$/java-io-binary_devmind_car_rental_system.iml" />
+    </modules>
+  </component>
+</project>
